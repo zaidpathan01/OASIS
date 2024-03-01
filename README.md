@@ -2,9 +2,9 @@
 
 ## OASIS PYTHON INTERNSHIP :
 
-## TASK 2 : BMI Calculator
+### TASK 2 : BMI Calculator
 
-### Description:
+#### Description:
 
 BMICalc is a Python-based command-line tool that calculates your Body Mass Index (BMI) and categorizes it into health-related ranges. This user-friendly application empowers you to take charge of your health awareness by providing valuable insights into your weight-to-height ratio.
 
@@ -21,9 +21,9 @@ Robust Input Validation: Ensures valid values for weight and height, preventing 
 Graceful Error Handling: Provides informative messages in case of unexpected user input, enhancing user experience.
 
 
-## TASK 3 : Random Password Generator
+### TASK 3 : Random Password Generator
 
-### Description:
+#### Description:
 
 SecurePassGen is a user-friendly Python-based command-line tool that helps you create strong, randomized passwords tailored to your security needs.  Customize password length, included character sets (uppercase, lowercase, digits, symbols), and easily generate passwords that make your online accounts more resilient.
 
@@ -38,9 +38,9 @@ Input Validation: Prevents errors by ensuring the user provides valid input for 
 Robust Randomization: Leverages Python's secure random functions for unpredictable password generation.
 
 
-## TASK 4 : Basic Weather App
+### TASK 4 : Basic Weather App
 
-### Description:
+#### Description:
 
 WeatherCLI is a Python-based command-line application that fetches current weather data for your desired location, empowering you to stay informed about the elements. Leverage the power of a weather API to access real-time insights into temperature, humidity, and weather conditions, all within the convenience of your terminal.
 
